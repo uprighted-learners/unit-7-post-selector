@@ -1,4 +1,4 @@
-# Lab: Post Selector
+# exercise: Post Selector
 
 ## Welcome!
 
